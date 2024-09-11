@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "batype";
+  src: url("./my-font.woff") format("woff"),
+    url("./my-font.woff2") format("woff2");
+}
+
+.hello {
+  color: red;
+  background: url("./batype.png");
+  font-family: "batype";
+}

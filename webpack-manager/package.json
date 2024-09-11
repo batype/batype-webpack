@@ -1,0 +1,28 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "packageManager": "pnpm@9.3.0+sha512.ee7b93e0c2bd11409c6424f92b866f31d3ea1bef5fbe47d3c7500cdc3c9668833d2e55681ad66df5b640c61fa9dc25d546efa54d76d7f8bf54b13614ac293631",
+  "dependencies": {
+    "css-loader": "^7.1.2",
+    "csv-loader": "^3.0.5",
+    "lodash": "^4.17.21",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4",
+    "xml-loader": "^1.2.1"
+  },
+  "devDependencies": {
+    "json5": "^2.2.3",
+    "toml": "^3.0.0",
+    "yamljs": "^0.3.0"
+  }
+}
